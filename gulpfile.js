@@ -3,8 +3,8 @@ const deploy = require('gulp-gh-pages');
 const del = require('del');
 const cp = require('child_process');
 
-gulp.task('clean', () => {
-  return del(['./public/**/*']);
+gulp.task('clean', (done) => {
+  return del(['./public/**/*'], done);
 });
 
 gulp.task('hugo-build', (done) => {
