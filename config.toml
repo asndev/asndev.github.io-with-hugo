@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://asndev.github.io"
+baseurl = "https://asndev.github.io/"
 languageCode = "en-us"
-title = "antonstepan (:"
+title = "asn - Anton Stepan"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -33,7 +33,7 @@ disqusShortname = ""
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "I'm an enthusiastic software engineer who really loves software engineering and technology stuff."
 	tweet = ""
 	share = ""
 	# 404 page
