@@ -1,5 +1,5 @@
 +++
-title = "foobar for real"
+title = "Foobar for real"
 description = ""
 tags = [
   "go",

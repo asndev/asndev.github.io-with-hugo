@@ -11,10 +11,10 @@ disqusShortname = ""
 [params]
 	name = "Anton Stepan"
 	description = "Describe your website"
-	bio = "Blogger - Programmer - Gopher"
+	bio = "Software Engineer"
 	# Enter optionally your twitter account
-	twitter = "asndev"
-	enableRSS = true
+	twitter = ""
+	enableRSS = false
 
 	# Add custom assets with their paths relative to the static folder
 	customCSS = []
