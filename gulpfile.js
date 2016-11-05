@@ -1,10 +1,11 @@
 const gulp = require('gulp');
 const deploy = require('gulp-gh-pages');
+const del = require('del');
 const cp = require('child_process');
 
-const messages = {
-  building: '<span style="color: grey">Running:</span> $ hugo'
-};
+gulp.task('clean', () => {
+  return del(['./public/**/*']);
+});
 
 gulp.task('hugo-build', (done) => {
   return cp
@@ -12,7 +13,7 @@ gulp.task('hugo-build', (done) => {
     .on('close', done);
 });
 
-gulp.task('deploy', ['hugo-build'], () => {
+gulp.task('deploy', ['clean', 'hugo-build'], () => {
   return gulp
     .src('./public/**/*')
     .pipe(deploy({ branch: 'master' }));

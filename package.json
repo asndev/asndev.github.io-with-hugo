@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "personal website of anton stepan using hugo",
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-gh-pages": "^0.5.4"
   },
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/asndev/asndev.github.io/issues"
   },
-  "homepage": "https://github.com/asndev/asndev.github.io#readme"
+  "homepage": "https://github.com/asndev/asndev.github.io#readme",
+  "dependencies": {
+    "del": "^2.2.2"
+  }
 }
