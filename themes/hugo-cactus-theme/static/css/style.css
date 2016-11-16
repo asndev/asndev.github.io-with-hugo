@@ -109,12 +109,18 @@ h2 {
 }
 
 nav.main-nav {
-	padding: 20px 20px 0;
+	padding: 16px 16px 0;
+	width: 100%;
+	height: 56px;
+  background: #27c9b9;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),
+      0 2px 9px 1px rgba(0,0,0,.12),
+      0 4px 2px -2px rgba(0,0,0,.2);
 
 	/*max-width: 600px;*/
 	/*width:100%;*/
-	background: #fff;
-	background: rgba(255,255,255,.90);
+	/*background: #fff;
+	background: rgba(255,255,255,.90);*/
 	margin: 0 auto;
 	text-align: right;
 	/*position: fixed;*/
@@ -125,15 +131,15 @@ nav.main-nav a {
 	top: 8px;
 	right: 6px;
 	padding: 8px 12px;
-	color: #27c9b9;
-	font-size: 13px;
+	color: white;
+	font-size: 15px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
 
 }
 nav.main-nav a.cta {
-	background: #27c9b9;
+	background: white;
 	color: #fff;
 	margin-left: 12px;
 }
