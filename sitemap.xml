@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://asndev.github.io/</loc>
+    <lastmod>2016-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asndev.github.io/post/2016/foobar-for-real/</loc>
+    <lastmod>2016-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://asndev.github.io/about/</loc>
+    <lastmod>2015-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
