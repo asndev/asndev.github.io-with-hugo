@@ -7,11 +7,13 @@ hidden = true
 I'm a bubbly software engineer who really loves latest technologies and enjoys talking 
 about cutting edge software concepts, frameworks and products. 
 
-<strong>Currently reading</strong>: 
+<strong>Books I like</strong>
+<p>
 <a target="_blank" href="http://amzn.to/2fKp1wT">High Performance Browser Networks</a>,
 <a target="_blank" href="http://amzn.to/2g3tXzH">Site Reliability Engineering</a>
 <div class="reading--done">
-  <span>Work Rules!</span>, <span>The Hard Thing About Hard Things</span>, <span>bold</span>, <span>ca$hvertising</span> 
+  <span>Work Rules!</span>, <span>The Hard Thing About Hard Things</span>, <span>bold</span>, <span>Effective Java</span>,
+  <span>ca$hvertising</span>, <span>Effective JavaScript</span>, <span>Eloquent JavaScript</span>, <span>Java puzzlers</span>
 </div>
 
 ***
