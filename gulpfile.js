@@ -7,13 +7,13 @@ gulp.task('clean', (done) => {
   return del(['./public/**/*'], done);
 });
 
-gulp.task('hugo-build', (done) => {
+gulp.task('build', (done) => {
   return cp
     .spawn('hugo', [], { stdio: 'inherit' })
     .on('close', done);
 });
 
-gulp.task('deploy', ['clean', 'hugo-build'], () => {
+gulp.task('deploy', () => {
   return gulp
     .src('./public/**/*')
     .pipe(deploy({ branch: 'master' }));
