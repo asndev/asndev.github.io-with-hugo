@@ -37,5 +37,36 @@
 </description>
     </item>
     
+    <item>
+      <title>[Talk] Introduction to Progressive Web Apps</title>
+      <link>https://asndev.github.io/post/2016/introduction-to-pwas/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://asndev.github.io/post/2016/introduction-to-pwas/</guid>
+      <description>
+
+&lt;h2 id=&#34;devs-meetup-talk-in-freiburg&#34;&gt;Devs Meetup Talk in Freiburg&lt;/h2&gt;
+
+&lt;p&gt;Progressive Web Applications take advantage of new technologies
+(Service Worker, App Shell, App Manifest, Push notifications) to improve the user experience of mobile websites.
+Their goal is to be reliable, fast, and engaging.&lt;/p&gt;
+
+&lt;p&gt;In this talk we explained the goal and the architecture of a progressive web app and illustrated how to make an existing application progressive.&lt;/p&gt;
+
+&lt;p&gt;Our slides: &lt;a href=&#34;http://asn.ninja/devsmeetup-intro-pwa&#34;&gt;http://asn.ninja/devsmeetup-intro-pwa&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impressions&#34;&gt;Impressions&lt;/h3&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://asndev.github.io/images/devsmeetup_2016-Sep-28.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
