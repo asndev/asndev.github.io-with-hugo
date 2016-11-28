@@ -1,5 +1,6 @@
 +++
 title = "Authentication with JWT in Spring Boot"
+draft = true
 description = "How to enable secured routes and JWT authentication with the Spring Boot Starter Project"
 tags = [
   "java",
